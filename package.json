@@ -1,0 +1,9 @@
+{
+  "name": "odin-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Calculator - The Odin Project Foundations",
+  "scripts": {
+    "test": "node --test calculator.test.cjs"
+  }
+}
